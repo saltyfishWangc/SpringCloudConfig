@@ -1,3 +1,3 @@
 config:
-    info: "SpringCloudConfig,version=5,dt=20220511"
+    info: "SpringCloudConfig,version=5,dt=20220512"
     msg: "我在github上修改文件，springcloud config还能直接获取到吗 现在呢"
